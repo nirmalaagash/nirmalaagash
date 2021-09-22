@@ -32,6 +32,12 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1023](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/issues/1023) in [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
+2. 🗣 Commented on [#2980](https://github.com/kubernetes/org/issues/2980) in [kubernetes/org](https://github.com/kubernetes/org)
+3. 🗣 Commented on [#2980](https://github.com/kubernetes/org/issues/2980) in [kubernetes/org](https://github.com/kubernetes/org)
+4. 🗣 Commented on [#1027](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/issues/1027) in [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
+5. 🗣 Commented on [#1065](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/issues/1065) in [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
+<!--END_SECTION:activity-->
 
 
 
